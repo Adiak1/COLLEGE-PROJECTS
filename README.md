@@ -26,7 +26,7 @@ K→ GND
 LED to pin 7
 Push button to pin 8
 
-The code in C program:
+The code in C++ program:
 
 #include <LiquidCrystal.h>
 
