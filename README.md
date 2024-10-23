@@ -6,4 +6,3 @@ If u need to know more about my project check my "Issues".
 List of projects :
 1. Reaction Time Measurement Using Arduino
 2. Motor Control Using RGB sensor and Arduino
-3. 
